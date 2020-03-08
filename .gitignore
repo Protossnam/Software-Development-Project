@@ -2,5 +2,3 @@
 *.pro.user
 build-*
 .vscode/
-boost_1_66_0*
-eigen-3.3.7*
